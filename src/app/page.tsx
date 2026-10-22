@@ -83,7 +83,7 @@ const featuredProjects = [
     description: "Smart online kitchen platform for order processing, recipe management, ingredient inventory tracking, and live kitchen staff workflows.",
     image: "/project-ai.jpg",
     tags: ["React", "Node.js", "Express", "MongoDB"],
-    liveUrl: "http://kitchen-online-eight.vercel.app",
+    liveUrl: "",
   },
   {
     id: 3,
@@ -92,7 +92,7 @@ const featuredProjects = [
     description: "Full-stack MERN application for task organization, todo list prioritization, progress tracking, category tagging, and persistent MongoDB storage.",
     image: "/project-saas.jpg",
     tags: ["React", "Node.js", "Express", "MongoDB"],
-    liveUrl: "http://kitchen-online-eight.vercel.app",
+    liveUrl: "",
   },
 ];
 
