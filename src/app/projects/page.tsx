@@ -55,7 +55,7 @@ const allProjects: Project[] = [
     image: "/project-ai.jpg",
     tags: ["React", "Node.js", "Express", "MongoDB", "Mongoose", "Bootstrap"],
     metrics: "Processed 5,000+ daily kitchen orders seamlessly",
-    liveUrl: "http://kitchen-online-eight.vercel.app",
+    liveUrl: "",
     highlights: [
       "Real-time order queue status updates for kitchen staff",
       "Recipe catalog & ingredient inventory calculator",
@@ -72,7 +72,7 @@ const allProjects: Project[] = [
     image: "/project-saas.jpg",
     tags: ["MERN Stack", "Node.js", "Express", "MongoDB", "Bootstrap", "REST API"],
     metrics: "Streamlined gym operations for 2,500+ active members",
-    liveUrl: "https://blog-website-six-flax.vercel.app/",
+    liveUrl: "",
     highlights: [
       "Member attendance check-in & membership status check",
       "Trainer assignment & personal training booking schedule",
@@ -89,7 +89,7 @@ const allProjects: Project[] = [
     image: "/project-ai.jpg",
     tags: ["React", "Node.js", "Express", "MongoDB", "Mongoose", "REST API", "Tailwind CSS"],
     metrics: "Sub-100ms REST API response with Mongoose ORM",
-    liveUrl: "http://kitchen-online-eight.vercel.app",
+    liveUrl: "",
     highlights: [
       "CRUD operations with Express REST API endpoints",
       "MongoDB & Mongoose schema validation for tasks",
